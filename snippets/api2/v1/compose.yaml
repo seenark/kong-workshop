@@ -1,0 +1,16 @@
+networks:
+  kong-net:
+    external: true
+
+services:
+  server:
+    image: hadesgod/api2-kong-workshop
+    container_name: api2
+    build:
+      context: .
+    environment:
+      NODE_ENV: production
+    ports:
+      - 3334:3334
+    networks:
+      - kong-net
