@@ -2,4 +2,4 @@
 
 please help me to improve my workshop
 
-[let's do feedback](https://github.com/seenark/kong-workshop.git)
+[let's do feedback](https://app.formbricks.com/s/clyfxhtiq02zqmwjoeeavyrz0)
