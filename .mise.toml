@@ -1,0 +1,4 @@
+[tools]
+node = "latest"
+"npm:@antfu/ni" = "latest"
+"npm:corepack" = "latest"

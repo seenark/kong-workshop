@@ -48,6 +48,7 @@ export default defineConfig({
           },
           { text: "17. Upstream", link: "/17-plugin-upstream" },
           { text: "18. ACME", link: "/18-plugin-acme" },
+          { text: "19. Protect Kong Manager", link: "/19-protect-kong-manager" },
           { text: "feedback", link: "/feedback" },
           // { text: "Markdown Examples", link: "/markdown-examples" },
           // { text: "Runtime API Examples", link: "/api-examples" },
