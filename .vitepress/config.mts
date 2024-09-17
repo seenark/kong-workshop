@@ -27,6 +27,7 @@ export default defineConfig({
       {
         text: "Workshop",
         items: [
+          { text: "TLDR;", link: "/tldr" },
           { text: "01. Prerequisition", link: "/01-prerequisition" },
           { text: "02. Installation", link: "/02-installation" },
           { text: "03. Gateway service", link: "/03-gateway-service" },
